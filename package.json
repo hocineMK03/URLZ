@@ -2,6 +2,7 @@
   "name": "@hocinemk/urlz",
   "version": "1.0.0",
   "description": "a library that help you shorten your url",
+  "homepage": "https://github.com/hocineMK03/URLZ",
   "main": "index.js",
   "scripts": {
     "test": "jest  && exit 1"
